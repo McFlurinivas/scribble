@@ -13,7 +13,7 @@ const getCode = require('./api/getCode');
 app.use(express.json());
 
 //connect to MongoDB
-const DB = 'mongodb+srv://HariDev:!Hari2002@cluster0.m6a3i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+const DB = <Connect>;
 
 mongoose.connect(DB).then(() => {
     console.log('Connection Successful');
