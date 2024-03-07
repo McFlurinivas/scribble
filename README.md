@@ -1,16 +1,10 @@
-# scribble
+This app is a multiplayer game made using Flutter framework and used Node.js as backend to connect to MongoDB. User can draw objects on canvas and other players in the room should guess it. The player who guesses it first will get more points.
 
-A new Flutter project.
+Implemented a real-time interaction system enhancing understanding of WebSocket for live data exchange as measured by developing algorithms for scoring based on the speed and accuracy of guesses, showcasing problem-solving skills.
 
-## Getting Started
+Optimized application for cloud deployment as measured by demonstrating knowledge of cloud-ready applications.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+[Project Overview](https://drive.google.com/file/d/1ZdWTcAfCYSkXKO5x-fQZcOcdsRgwWxMO/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
