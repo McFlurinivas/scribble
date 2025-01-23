@@ -1,6 +1,6 @@
 # Scribble
 
-This project is a clone of Scribble, developed using Flutter for the frontend, Node.js (Express) for the backend, and MongoDB as the database. The application features WebSocket integration to ensure real-time broadcasting of drawings to all players in the room simultaneously. It also replicates the scoring system of Scribble to enhance the gaming experience.
+This project is a clone of Skribbl.io, developed using Flutter for the frontend, Node.js (Express) for the backend, and MongoDB as the database. The application features WebSocket integration to ensure real-time broadcasting of drawings to all players in the room simultaneously. It also replicates the scoring system of Scribble to enhance the gaming experience.
 
 ## Project Overview and APK Download
 
